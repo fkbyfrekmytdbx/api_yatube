@@ -1,4 +1,4 @@
-from django.urls import path
+"""Post app URL routes."""
 
 urlpatterns = [
 ]
